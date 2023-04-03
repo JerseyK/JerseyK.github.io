@@ -12,6 +12,7 @@
 _**[Sentiment analysis of 10-Ks to determine correlation with returns](/report/report.md)**_
 
 This project performs a sentiment analysis on the 10Ks of companies in the S&P500 as of 2022 to determine if there is a correlation between the cumulative returns around the filing date of the 10K and the sentiment of the 10K.
+
 <img src="report/output_21_1.png?raw=true"/>
 
 ---
