@@ -1,15 +1,7 @@
 ## About Me
 
-What's up? hey\|you
-
-I am an awesome student at Lehigh, you should hire me!
-
-<!-- Upload your own photo and change the path -->
-
-<p style="text-align:center;">
-  <img class="img-circle" src="https://github.com/donbowen/donbowen.github.io/raw/master/images/logo.png" width="50%">
-</p>
-
+:mortar_board: MS Finaicial Enginering @ Lehigh University  - Expected Graduation May 2023
+:mortar_board: BS Biomedical Engineering student @ Virginia Commonwealth University - Expected Graduation May 2023
 ---
 
 ## Portfolio
