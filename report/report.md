@@ -1,3 +1,7 @@
+---
+layout: wide_default
+---
+
 ```python
 import pandas as pd
 import numpy as np
