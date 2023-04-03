@@ -1,8 +1,7 @@
 ## About Me
 
-:mortar_board: MS Finaicial Enginering @ Lehigh University  - Expected Graduation May 2023 
-
-:mortar_board: BS Biomedical Engineering @ Virginia Commonwealth University - Class of 2020
+- MS Finaicial Enginering @ Lehigh University  - Expected Graduation May 2023 
+- BS Biomedical Engineering @ Virginia Commonwealth University - Class of 2020
 
 ---
 
