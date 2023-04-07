@@ -1,4 +1,4 @@
-## About Me
+## Education
 
 - MS Finaicial Enginering @ Lehigh University  - Expected Graduation May 2023 
 - BS Biomedical Engineering @ Virginia Commonwealth University - Class of 2020
@@ -15,9 +15,9 @@ This project performs a sentiment analysis on the 10Ks of companies in the S&P50
 
 <img src="report/output_21_1.png?raw=true"/>
 
----
+<!-- --- -->
 
-_**[Regression Practice](Regression_practice)**_
+<!-- _**[Regression Practice](Regression_practice)**_
 
 Or: The process that created this page can be used to show off your whole midterm analysis file, as is.
 
@@ -33,21 +33,19 @@ _**[Eventual team project](https://jerseyk.github.io/Final-Project_Sunset-websit
 
 _**[ADD A PERSONAL PROJECT - ONE OF HTE MFE ONES!!!](/pdf/sample_presentation.pdf)**_
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/dummy_thumbnail.jpg?raw=true"/> -->
 
 ---
 
 ## Career Objectives
 
-Write what you want. 
-
-Sell yourself!
-
+<!-- Ever since I was a young child, my parents said that I was a "problem solver." 
+ -->
 ---
 
 ## Hobbies
-
-Maybe include a little about these, especially if they are the kinds of things that work well in interviews.
+- reading
+- cooking & baking
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
