@@ -1,5 +1,9 @@
 ## About Me
 
+Hi! My name is Jersey Ann Krupp. I am a graduate student at Lehigh University studing Financial Engineering, which is a combination of ISE math and finance. I am more details here. 
+<!-- Hi! My name is Michael Rich, and I am a student at Lehigh University in the Integrated Business and Engineering Honors Program (IBE) studying Financial Engineering. I am an enthusiastic student-entrepreneur who is excited to solve problems with finance and engineering applications. I am incredibly interested in startup companies and am constantly exploring new and innovative ways to improve the technological landscape. -->
+
+### Education
 - MS Finaicial Enginering @ Lehigh University  - Expected Graduation May 2023 
 - BS Biomedical Engineering @ Virginia Commonwealth University - Class of 2020
 
