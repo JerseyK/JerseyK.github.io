@@ -26,7 +26,7 @@ Or: The process that created this page can be used to show off your whole midter
 
 _**[Team Project (in process)](https://jerseyk.github.io/Final-Project_Sunset-website/)**_
 
-We are anlayzing the affect of COVID-19 on the supply chain from a financial perspective. We will be looking at Exibit 10s to obtain the supply chain network and 10-Ks to understand the S&P500 companies finances in 2019 vs 2022.
+We are anlayzing the affects of COVID-19 on the supply chain from a financial perspective. We will be looking at Exibit 10s to obtain the supply chain network and 10-Ks to understand the S&P500 companies finances in 2019 vs 2022.
 <!-- <img src="images/dummy_thumbnail.jpg?raw=true"/> -->
 <!-- 
 ---
