@@ -1,4 +1,4 @@
-## About me
+## About Me
 
 - MS Finaicial Enginering @ Lehigh University  - Expected Graduation May 2023 
 - BS Biomedical Engineering @ Virginia Commonwealth University - Class of 2020
