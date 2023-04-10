@@ -31,7 +31,7 @@ We are anlayzing the affects of COVID-19 on the supply chain from a financial pe
 
 ---
 
-_**Using ML to analyze the Black Scholes Model**_
+_**Using ML to analyze the Black Scholes Model (in progress)**_
 
 In this project, I am leading a team of students to compare the results of the Black Scholes Model from different models at different moneynesses levels.
 
