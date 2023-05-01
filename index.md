@@ -24,16 +24,16 @@ Or: The process that created this page can be used to show off your whole midter
 
 ---
 
-_**[COVID-19's affect on the supply chain (in process)](https://jerseyk.github.io/Final-Project_Sunset-website/)**_
+_**[COVID-19's affect on the supply chain (in process)](https://github.com/JerseyK/Final-Project_Sunset-Website)**_
 
-We are anlayzing the affects of COVID-19 on the supply chain from a financial perspective. We will be analyzing the buyers & sellers from the Compustat Customer Supplier dataset for 2019 and 2022.
+We are anlayzing the affects of COVID-19 on the supply chain from a financial perspective using Compustat Customer Supplier and Accounting data from 2019 and 2022.
 <!-- <img src="images/dummy_thumbnail.jpg?raw=true"/> -->
 
----
+<!-- ---
 
 _**Using ML to analyze the Black Scholes Model (in progress)**_
 
-In this project, I am leading a team of students using ML to compare the results of the Black Scholes Model at different moneynesses levels.
+In this project, I am leading a team of students using ML to compare the results of the Black Scholes Model at different moneynesses levels. -->
 
 ---
 
