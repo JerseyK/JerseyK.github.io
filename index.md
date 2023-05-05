@@ -28,7 +28,7 @@ _**[COVID-19's affect on the supply chain](https://jerseyk-final-project-sunset-
 
 Analyzed the affects of COVID-19 on the supply chain from a financial perspective using Compustat Customer Supplier and Accounting data from 2019 and 2022. Displayed the resutls in a Dashboard using streamlit.io.
 
-<img src="report/output_21_1.png?raw=true"/>
+<img src="images/COVID 19 - Dashboard.png?raw=true"/>
 
 <!-- ---
 
