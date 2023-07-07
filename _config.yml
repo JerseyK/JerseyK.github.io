@@ -4,8 +4,8 @@ description: > # your text below (remove <br> elements if you don't need line br
 
   <a href="https://www.linkedin.com/in/jersey-ann-krupp/">LinkedIn</a> 
   <br>
-  <a href="/pdf/Resume_Krupp,Jersey.pdf" class="btn btn--info">Resume</a>  
-  <br>
+  # <a href="/pdf/Resume_Krupp,Jersey.pdf" class="btn btn--info">Resume</a>  
+  # <br>
   <a href="https://github.com/JerseyK">GitHub</a>  
   <br>
 
