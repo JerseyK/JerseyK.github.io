@@ -38,12 +38,12 @@ In this project, I am leading a team of students using ML to compare the results
 
 ---
 
-_hey## Career Objectives
+<!--## Career Objectives
 
-<!-- Ever since I was a young child, my parents said that I was a "problem solver." -->
+ Ever since I was a young child, my parents said that I was a "problem solver." 
 I want to work somewhere where I can make a positve inpact utilizing the problem solving skills I have gained through my educational experince.  
 
----_
+--- -->
 
 ## Hobbies
 - Reading: My current read is *Dollars and Sense* by Dan Ariely and Jeff Kreisler
