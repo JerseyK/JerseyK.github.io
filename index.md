@@ -38,7 +38,7 @@ In this project, I am leading a team of students using ML to compare the results
 
 ---
 
-_## Career Objectives
+_hey## Career Objectives
 
 <!-- Ever since I was a young child, my parents said that I was a "problem solver." -->
 I want to work somewhere where I can make a positve inpact utilizing the problem solving skills I have gained through my educational experince.  
