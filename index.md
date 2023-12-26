@@ -30,6 +30,8 @@ Analyzed the affects of COVID-19 on the supply chain from a financial perspectiv
 
 <img src="images/COVID 19 - Dashboard.png?raw=true"/>
 
+_** Capstone projects **_
+
 <!-- ---
 
 _**Using ML to analyze the Black Scholes Model (in progress)**_
