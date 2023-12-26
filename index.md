@@ -4,7 +4,7 @@ Hi! My name is Jersey Ann Krupp. I am a highly motivated, fresh graduate from Le
 
 --- 
 
-## Portfolio
+## Portfolio (Class Projects)
 
 <!-- You can link to other websites, PDFs in this repo, and other pages in this repo -->
 
