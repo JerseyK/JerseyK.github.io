@@ -1,10 +1,10 @@
-## About Me
+## About Me:
 
 Hi! My name is Jersey Ann Krupp. I am a highly motivated, fresh graduate from Lehigh University with a Master's in Financial Engineering with experience working at the intersection of business and engineering. I have demonstrated skills working with diverse teams, managing projects to achieve results, and providing creative solutions for internal and external clients. I have strong cross-cultural communication, problem solving, and analytical skills.
 
 --- 
 
-## Portfolio (Class Projects)
+## Portfolio (Class Projects):
 
 <!-- You can link to other websites, PDFs in this repo, and other pages in this repo -->
 
