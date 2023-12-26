@@ -22,7 +22,7 @@ Or: The process that created this page can be used to show off your whole midter
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/> -->
 
---
+
 
 _**[COVID-19's affect on the supply chain](https://jerseyk-final-project-sunset-website-welcome-eoomf2.streamlit.app)**_
 
