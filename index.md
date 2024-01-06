@@ -24,7 +24,7 @@ Or: The process that created this page can be used to show off your whole midter
 
 
 
-_**[COVID-19's affect on the supply chain](https://jerseyk-final-project-sunset-website-welcome-eoomf2.streamlit.app)**_
+_**[COVID-19's effect on the supply chain](https://jerseyk-final-project-sunset-website-welcome-eoomf2.streamlit.app)**_
 
 Analyzed the effects of COVID-19 on the supply chain from a financial perspective using Compustat Customer Supplier and Accounting data from 2019 and 2022. Displayed the results in a Dashboard using streamlit.io.
 
