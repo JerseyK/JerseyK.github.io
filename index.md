@@ -1,6 +1,6 @@
 ## About Me:
 
-Hi! My name is Jersey Ann Krupp. I have experience working at the intersection of medicine, engineering, and business. I have demonstrated skills working with diverse teams, managing projects to achieve results, and providing creative solutions for internal and external clients. I have strong cross-cultural communication, problem solving, and analytical skills. 
+Hi! My name is Jersey Ann Krupp. I have experience working at the intersection of medicine, engineering, and business. I have demonstrated skills working with diverse teams, managing projects to achieve results, and providing creative solutions for internal and external clients. I have strong cross-cultural communication, problem solving, and analytical skills. test
 
 --- 
 
