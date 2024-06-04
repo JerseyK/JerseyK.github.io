@@ -4,7 +4,7 @@ Hi! My name is Jersey Ann Krupp. I have experience working at the intersection o
 
 --- 
 
-## MS Financial Engineering Capstone Portfolio:
+## MS Financial Engineering Portfolio:
 
 <!-- You can link to other websites, PDFs in this repo, and other pages in this repo -->
 
