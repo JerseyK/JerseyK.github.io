@@ -28,7 +28,8 @@ Led a team of students to calibrate traditional financial models using different
 
 _**[Economic Development Fund Management](pdf/Fin_Eq_Documentation.pdf)**_
 
-add
+Structured a Private Equity fund for an ESG investment opportunity to generate proceeds for land acquisition, industrial building development, and redevelopment in the Lehigh Valley, Allentown area,
+
 
 <!-- ---
 
