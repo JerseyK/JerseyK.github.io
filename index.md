@@ -4,7 +4,7 @@ Hi! My name is Jersey Ann Krupp. I have experience working at the intersection o
 
 --- 
 
-## Portfolio (MS Financial Engineering Projects):
+## MS Financial Engineering Capstone Portfolio:
 
 <!-- You can link to other websites, PDFs in this repo, and other pages in this repo -->
 
@@ -23,7 +23,7 @@ Performed a sentiment analysis on the 10Ks of companies in the S&P500 as of 2022
 
 _**[Design of Lehigh Social Application](https://lehigh-communities.mn.co/landing?space_id=10949919)**_
 
-Performed a sentiment analysis on the 10Ks of companies in the S&P500 as of 2022 to determine if there is a correlation between the cumulative returns around the filing date of the 10K and the sentiment of the 10K.
+Innovative communication platform that fosters a seamless interaction between MS Financial Engineering students and alumni at Lehigh University.
 
 <img src="report/output_21_1.png?raw=true"/>
 
