@@ -8,6 +8,15 @@ Hi! My name is Jersey Ann Krupp. I have experience working at the intersection o
 
 <!-- You can link to other websites, PDFs in this repo, and other pages in this repo -->
 
+_**[COVID-19's effect on the supply chain](https://jerseyk-final-project-sunset-website-welcome-eoomf2.streamlit.app)**_
+
+Analyzed the effects of COVID-19 on the supply chain from a financial perspective using Compustat Customer Supplier and Accounting data from 2019 and 2022. Displayed the results in a Dashboard using streamlit.io.
+
+<img src="images/COVID 19 - Dashboard.png?raw=true"/>
+
+_**Other Capstone Projects: see resume**_
+
+
 _**[Sentiment analysis of 10-Ks to determine correlation with returns](/report/report.md)**_
 
 Performed a sentiment analysis on the 10Ks of companies in the S&P500 as of 2022 to determine if there is a correlation between the cumulative returns around the filing date of the 10K and the sentiment of the 10K.
@@ -22,15 +31,6 @@ Or: The process that created this page can be used to show off your whole midter
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/> -->
 
-
-
-_**[COVID-19's effect on the supply chain](https://jerseyk-final-project-sunset-website-welcome-eoomf2.streamlit.app)**_
-
-Analyzed the effects of COVID-19 on the supply chain from a financial perspective using Compustat Customer Supplier and Accounting data from 2019 and 2022. Displayed the results in a Dashboard using streamlit.io.
-
-<img src="images/COVID 19 - Dashboard.png?raw=true"/>
-
-_**Other Capstone Projects: see resume**_
 
 <!-- ---
 
