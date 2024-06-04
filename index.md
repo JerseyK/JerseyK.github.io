@@ -25,7 +25,7 @@ _**[Design of Lehigh Social Application](https://lehigh-communities.mn.co/landin
 
 Innovative communication platform that fosters a seamless interaction between MS Financial Engineering students and alumni at Lehigh University.
 
-<img src="report/output_21_1.png?raw=true"/>
+<img src="images/LehighApp.png"/>
 
 _**[Financial Equations](add link)**_
 
