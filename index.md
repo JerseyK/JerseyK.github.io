@@ -21,6 +21,12 @@ Performed a sentiment analysis on the 10Ks of companies in the S&P500 as of 2022
 
 <img src="report/output_21_1.png?raw=true"/>
 
+_**[Design of Lehigh Social Application](https://lehigh-communities.mn.co/landing?space_id=10949919)**_
+
+Performed a sentiment analysis on the 10Ks of companies in the S&P500 as of 2022 to determine if there is a correlation between the cumulative returns around the filing date of the 10K and the sentiment of the 10K.
+
+<img src="report/output_21_1.png?raw=true"/>
+
 <!-- ---
 
 _**[Regression Practice](Regression_practice)**_
