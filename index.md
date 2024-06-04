@@ -12,14 +12,10 @@ _**[COVID-19's effect on the supply chain](https://jerseyk-final-project-sunset-
 
 Analyzed the effects of COVID-19 on the supply chain from a financial perspective using Compustat Customer Supplier and Accounting data from 2019 and 2022. Displayed the results in a Dashboard using streamlit.io.
 
-<img src="images/COVID 19 - Dashboard.png?raw=true"/>
-
 
 _**[Sentiment analysis of 10-Ks to determine correlation with returns](/report/report.md)**_
 
 Performed a sentiment analysis on the 10Ks of companies in the S&P500 as of 2022 to determine if there is a correlation between the cumulative returns around the filing date of the 10K and the sentiment of the 10K.
-
-<img src="report/output_21_1.png?raw=true"/>
 
 _**[Design of Lehigh Social Application](https://lehigh-communities.mn.co/landing?space_id=10949919)**_
 
