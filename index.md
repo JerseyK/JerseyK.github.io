@@ -27,6 +27,12 @@ Innovative communication platform that fosters a seamless interaction between MS
 
 <img src="report/output_21_1.png?raw=true"/>
 
+_**[Financial Equations](add link)**_
+
+Innovative communication platform that fosters a seamless interaction between MS Financial Engineering students and alumni at Lehigh University.
+
+<img src="report/output_21_1.png?raw=true"/>
+
 <!-- ---
 
 _**[Regression Practice](Regression_practice)**_
