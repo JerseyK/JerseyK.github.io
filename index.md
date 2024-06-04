@@ -4,7 +4,7 @@ Hi! My name is Jersey Ann Krupp. I have experience working at the intersection o
 
 --- 
 
-## Portfolio (Class Projects):
+## Portfolio (MS Financial Engineering Projects):
 
 <!-- You can link to other websites, PDFs in this repo, and other pages in this repo -->
 
@@ -13,8 +13,6 @@ _**[COVID-19's effect on the supply chain](https://jerseyk-final-project-sunset-
 Analyzed the effects of COVID-19 on the supply chain from a financial perspective using Compustat Customer Supplier and Accounting data from 2019 and 2022. Displayed the results in a Dashboard using streamlit.io.
 
 <img src="images/COVID 19 - Dashboard.png?raw=true"/>
-
-_**Other Capstone Projects: see resume**_
 
 
 _**[Sentiment analysis of 10-Ks to determine correlation with returns](/report/report.md)**_
