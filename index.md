@@ -60,8 +60,6 @@ I want to work somewhere where I can make a positve inpact utilizing the problem
 - Cooking: While I have not been terribly adventurous as of late, I do wish to make pasta from scratch
 - Baking: Now that I know how to make Chocolate Chip cookies from scratch ([using the double tree recipe](https://stories.hilton.com/food-beverage/static-doubletree-reveals-cookie-recipe)), my next goal is to make coffee cake from scratch
 
--->
-
 ---  -->
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
