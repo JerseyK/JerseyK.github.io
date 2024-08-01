@@ -22,7 +22,7 @@ _**[Design of Lehigh Social Application](https://lehigh-communities.mn.co/landin
 Innovative communication platform that fosters a seamless interaction between MS Financial Engineering students and alumni at Lehigh University.
 
 
-_**[Financial Equations](pdf/Fin_Eq_Documentation.pdf)**_
+_**[Financial Equation](pdf/Fin_Eq_Documentation.pdf)**_
 
 Led a team of students to explore how the different moneyness values of the Black-Scholes Model performed on different Machine Learning techniques.
 
