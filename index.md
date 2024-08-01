@@ -24,7 +24,7 @@ Innovative communication platform that fosters a seamless interaction between MS
 
 _**[Financial Equations](pdf/Fin_Eq_Documentation.pdf)**_
 
-Led a team of students to calibrate traditional financial models using different Machine Learning techniques.
+Led a team of students to explore how the different moneyness values of the Black-Scholes Model performed on different Machine Learning techniques.
 
 _**[Economic Development Fund Management](pdf/AEDC_Pitch-Deck.pdf)**_
 
